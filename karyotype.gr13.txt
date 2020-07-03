@@ -1,0 +1,6 @@
+# generated using info from final.assembly.fasta
+chr - gr13_1 I 0 874785 black
+chr - gr13_2 II 0 3163405 black
+chr - gr13_3 III 0 182411 black
+chr - gr13_4 IV 0 534640 black
+# everything mapped to 4 scaffolds
